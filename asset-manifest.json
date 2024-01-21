@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/travel-with-smart/static/css/main.07ef46b6.css",
+    "main.js": "/travel-with-smart/static/js/main.0c35693d.js",
+    "static/js/523.3d797de9.chunk.js": "/travel-with-smart/static/js/523.3d797de9.chunk.js",
+    "static/js/730.f227e448.chunk.js": "/travel-with-smart/static/js/730.f227e448.chunk.js",
+    "static/js/733.0c9c956d.chunk.js": "/travel-with-smart/static/js/733.0c9c956d.chunk.js",
+    "static/js/883.acd462bf.chunk.js": "/travel-with-smart/static/js/883.acd462bf.chunk.js",
+    "static/js/678.6cae239c.chunk.js": "/travel-with-smart/static/js/678.6cae239c.chunk.js",
+    "static/media/mainIMG.jpg": "/travel-with-smart/static/media/mainIMG.d38cf952b8a90c902b41.jpg",
+    "static/media/notfound.png": "/travel-with-smart/static/media/notfound.5968bc0c8cda1d09ce41.png",
+    "index.html": "/travel-with-smart/index.html",
+    "main.07ef46b6.css.map": "/travel-with-smart/static/css/main.07ef46b6.css.map",
+    "main.0c35693d.js.map": "/travel-with-smart/static/js/main.0c35693d.js.map",
+    "523.3d797de9.chunk.js.map": "/travel-with-smart/static/js/523.3d797de9.chunk.js.map",
+    "730.f227e448.chunk.js.map": "/travel-with-smart/static/js/730.f227e448.chunk.js.map",
+    "733.0c9c956d.chunk.js.map": "/travel-with-smart/static/js/733.0c9c956d.chunk.js.map",
+    "883.acd462bf.chunk.js.map": "/travel-with-smart/static/js/883.acd462bf.chunk.js.map",
+    "678.6cae239c.chunk.js.map": "/travel-with-smart/static/js/678.6cae239c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ef46b6.css",
+    "static/js/main.0c35693d.js"
+  ]
+}
